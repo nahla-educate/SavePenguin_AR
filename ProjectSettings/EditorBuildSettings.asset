@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Puzzle2D.unity
+    guid: 6c7d6c29fa851fe42b1ff94e1162715f
+  - enabled: 1
+    path: Assets/Scenes/PenguinScene3D.unity
+    guid: 573f66d51937d9e468fa0bb7cf347928
+  - enabled: 1
+    path: Assets/Scenes/MEn.unity
+    guid: 41a68a4674f868640861680d84ed92b6
+  - enabled: 1
+    path: Assets/Scenes/Coloriage.unity
+    guid: fcaa85d0519e8c449a2ea2b0dd13aa13
+  - enabled: 1
+    path: Assets/Scenes/BatarokoJump.unity
+    guid: 8c7e146bcd538b24fb0329037f82463b
+  m_configObjects: {}
